@@ -1,0 +1,5 @@
+14:48:52.164 [main] INFO  org.nsf.ui.modules.CreateUserModule - Profile created successfully for the user JohnDoe
+14:49:16.483 [main] INFO  org.nsf.ui.modules.CreateUserModule - Profile created successfully for the user JaneSmith
+14:49:40.434 [main] INFO  org.nsf.ui.modules.CreateUserModule - Profile created successfully for the user EmilyBrown
+14:50:09.930 [main] INFO  org.nsf.ui.modules.CreateUserModule - Profile created successfully for the user MichaelJohnson
+14:50:35.208 [main] INFO  org.nsf.ui.modules.CreateUserModule - Profile created successfully for the user SarahLee

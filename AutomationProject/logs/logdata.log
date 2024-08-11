@@ -1,0 +1,15 @@
+2024-08-11 14:54:59 INFO  CreateUserModule:88 - Profile created successfully for the user JohnDoe
+2024-08-11 14:55:21 INFO  CreateUserModule:88 - Profile created successfully for the user JaneSmith
+2024-08-11 14:55:44 INFO  CreateUserModule:88 - Profile created successfully for the user EmilyBrown
+2024-08-11 14:56:05 INFO  CreateUserModule:88 - Profile created successfully for the user MichaelJohnson
+2024-08-11 14:56:29 INFO  CreateUserModule:88 - Profile created successfully for the user SarahLee
+2024-08-11 14:59:18 INFO  CreateUserModule:88 - Profile created successfully for the user John Doe
+2024-08-11 14:59:42 INFO  CreateUserModule:88 - Profile created successfully for the user Jane Smith
+2024-08-11 15:00:06 INFO  CreateUserModule:88 - Profile created successfully for the user Emily Brown
+2024-08-11 15:00:28 INFO  CreateUserModule:88 - Profile created successfully for the user Michael Johnson
+2024-08-11 15:00:52 INFO  CreateUserModule:88 - Profile created successfully for the user Sarah Lee
+2024-08-11 15:40:37 INFO  CreateUserModule:93 - Profile already existed for the user John Doe
+2024-08-11 15:41:00 INFO  CreateUserModule:93 - Profile already existed for the user Jane Smith
+2024-08-11 15:41:23 INFO  CreateUserModule:93 - Profile already existed for the user Emily Brown
+2024-08-11 15:41:42 INFO  CreateUserModule:98 - ID number entered is not valid for the userMichael Johnson
+2024-08-11 15:42:05 INFO  CreateUserModule:98 - ID number entered is not valid for the userSarah Lee
